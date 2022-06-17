@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:keyHeight="6%p"
+    app:keyWidth="10%p">
+    <Row>
+        <Key
+            app:codes="55"
+            app:keyEdgeFlags="left"
+            app:keyLabel="7" />
+        <Key
+            app:codes="56"
+            app:keyLabel="8" />
+        <Key
+            app:codes="57"
+            app:keyLabel="9" />
+        <Key
+            app:codes="65"
+            app:horizontalGap="2.5%p"
+            app:keyLabel="A" />
+        <Key
+            app:codes="66"
+            app:keyLabel="B" />
+        <Key
+            app:codes="67"
+            app:keyLabel="C" />
+        <Key
+            app:codes="68"
+            app:keyLabel="D" />
+        <Key
+            app:codes="69"
+            app:keyLabel="E" />
+    </Row>
+    <Row>
+        <Key
+            app:codes="52"
+            app:keyEdgeFlags="left"
+            app:keyLabel="4" />
+        <Key
+            app:codes="53"
+            app:keyLabel="5" />
+        <Key
+            app:codes="54"
+            app:keyLabel="6" />
+        <Key
+            app:codes="70"
+            app:horizontalGap="2.5%p"
+            app:keyLabel="F" />
+        <Key
+            app:codes="71"
+            app:keyLabel="G" />
+        <Key
+            app:codes="72"
+            app:keyLabel="H" />
+        <Key
+            app:codes="73"
+            app:keyLabel="I" />
+        <Key
+            app:codes="74"
+            app:keyLabel="J" />
+    </Row>
+    <Row>
+        <Key
+            app:codes="49"
+            app:keyEdgeFlags="left"
+            app:keyLabel="1" />
+        <Key
+            app:codes="50"
+            app:keyLabel="2" />
+        <Key
+            app:codes="51"
+            app:keyLabel="3" />
+
+        <Key
+            app:codes="75"
+            app:horizontalGap="2.5%p"
+            app:keyLabel="k" />
+
+        <Key
+            app:codes="76"
+            app:keyLabel="l" />
+
+        <Key
+            app:codes="77"
+            app:keyLabel="M" />
+        <Key
+            app:codes="78"
+            app:keyLabel="N" />
+        <Key
+            app:codes="79"
+            app:keyLabel="O" />
+    </Row>
+    <Row>
+        <Key
+            app:codes="48"
+            app:keyEdgeFlags="left"
+            app:keyWidth="30%p"
+            app:keyLabel="0" />
+        <Key
+            app:codes="80"
+            app:horizontalGap="2.5%p"
+            app:keyLabel="P" />
+        <Key
+            app:codes="81"
+            app:keyLabel="Q" />
+        <Key
+            app:codes="82"
+            app:keyLabel="R" />
+        <Key
+            app:codes="83"
+            app:keyLabel="S" />
+        <Key
+            app:codes="84"
+            app:keyLabel="T" />
+        <Key
+            app:codes="44"
+            app:keyWidth="15%p"
+            app:horizontalGap="2.5%p"
+            app:keyEdgeFlags="right"
+            app:keyLabel="," />
+    </Row>
+
+    <Row>
+        <Key
+            app:codes="55006"
+            app:keyEdgeFlags="left"
+            app:keyWidth="30%p"
+            app:keyLabel="CLR" />
+        <Key
+            app:codes="85"
+            app:horizontalGap="2.5%p"
+            app:keyLabel="U" />
+        <Key
+            app:codes="86"
+            app:keyLabel="V" />
+        <Key
+            app:codes="87"
+            app:keyLabel="W" />
+        <Key
+            app:codes="88"
+            app:keyLabel="X" />
+        <Key
+            app:codes="89"
+            app:keyLabel="Y" />
+        <Key
+            app:codes="90"
+            app:keyWidth="15%p"
+            app:keyEdgeFlags="right"
+            app:horizontalGap="2.5%p"
+            app:keyLabel="Z" />
+    </Row>
+
+    <Row app:rowEdgeFlags="bottom">
+        <Key
+            app:codes="55001"
+            app:keyWidth="50%p"
+            app:keyEdgeFlags="left"
+            app:keyLabel="001C2C" />
+    </Row>
+</Keyboard>
